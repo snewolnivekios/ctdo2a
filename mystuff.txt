@@ -1,8 +1,5 @@
 Here's some stuff
 Here's some more stuff
 Something added on GitHub
-<<<<<<< HEAD
 local add via --amend
-=======
->>>>>>> 9d4caf90759a9b92e8f4cac166f1f2034c151ba8
 line of conflict
