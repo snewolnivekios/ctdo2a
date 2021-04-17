@@ -5,3 +5,4 @@ remote: this is line 4 / local: line 4 change
 local: line 5
 remote: new line 6
 addresses my first issue / trying again
+glog = log --all --pretty=format:'%d %Cgreen%h%Creset %an - %s' --graph
