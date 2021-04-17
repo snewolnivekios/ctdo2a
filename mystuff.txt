@@ -3,3 +3,4 @@ Here's some more stuff
 Something added on GitHub
 local add via --amend
 now is the time
+i was here first
